@@ -11,7 +11,7 @@
 * OF THE POSSIBILITY OF SUCH DAMAGE.
 *
 * This file is part of mnist-reader which is released under GPLv3 License.
-* See file LICENSE or go to https://github.com/victordmontero/mnist-reader/LICENSE for full license details.
+* See file LICENSE or go to https://github.com/victordmontero/mnist-reader/blob/master/LICENSE for full license details.
 */
 
 #ifndef MNIST_H_
